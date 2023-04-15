@@ -1,5 +1,7 @@
 name: Lint application on Ubuntu latest on Node 16
 
+on: workflow_call
+
 jobs:
   lint:
     runs-on: ubuntu-latest
