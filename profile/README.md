@@ -4,9 +4,13 @@
 
 Welcome to the reVISit project. Our goal is to develop the infrastructure to democratize, accelerate, and advance our ability to conduct crowdsourced studies to evaluate visualization systems.
 
-This project is a joint research and development effort between the University of Utah, Worcester Polytechnic Institute, and the University of Toronto, funded by the National Science Foundation. 
+This project is a joint research and development effort between the University of Utah, Worcester Polytechnic Institute, and the University of Toronto. We receive funding by the National Science Foundation. 
 
-You can visit our deployment by visiting https://revisit.dev.
+The main project page is at https://revisit.dev/. 
+
+You can check out a demo of various studies at https://revisit.dev/study/.
+
+The main repository you might care about is https://github.com/revisit-studies/study.
 
 ### Community contribution
 
