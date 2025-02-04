@@ -10,7 +10,9 @@ The main project page is at https://revisit.dev/.
 
 You can check out a demo of various studies at https://revisit.dev/study/.
 
-The main repository you might care about is https://github.com/revisit-studies/study.
+The main repository you might care about if you want to create a study is https://github.com/revisit-studies/study.
+
+If you're looking for the reVISit python bindings go to https://github.com/revisit-studies/revisitpy.
 
 ### Community contribution
 
