@@ -15,3 +15,7 @@ The main repository you might care about is https://github.com/revisit-studies/s
 ### Community contribution
 
 We'll happily accept community contributions. Open an issue or a pull request to help us out!
+
+### Need Help? 
+
+Learn how to [get help with your reVISit study](https://revisit.dev/community/#get-help). In brief, here are [tutorials](https://revisit.dev/docs/introduction/), [reference documentation](https://revisit.dev/docs/typedoc/), and our [Slack team to get help from actual humans!](https://join.slack.com/t/revisit-nsf/shared_invite/zt-25mrh5ppi-6sDAL6HqcWJh_uvt2~~DMQ).
