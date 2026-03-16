@@ -16,7 +16,7 @@ If you want to create your own study, [we recommend using the template](https://
 
 If you're looking for the reVISit python bindings go to https://github.com/revisit-studies/revisitpy.
 
-## Paper
+### Paper
 
 If you are using reVISit for a paper, please cite:
 
