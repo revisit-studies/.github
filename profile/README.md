@@ -16,6 +16,12 @@ If you want to create your own study, [we recommend using the template](https://
 
 If you're looking for the reVISit python bindings go to https://github.com/revisit-studies/revisitpy.
 
+## Paper
+
+If you are using reVISit for a paper, please cite:
+
+> Zach Cutler, Jack Wilburn, Hilson Shrestha, Yiren Ding, Brian Bollen, Khandaker Abrar Nadib, Tingying He, Andrew McNutt, Lane Harrison, Alexander Lex. [ReVISit 2: A Full Experiment Life Cycle User Study Framework](https://www.visdesignlab.net/publications/2025_vis_revisit/). IEEE Transactions on Visualization and Computer Graphics (VIS), 32(1): 13-23, [doi:10.1109/TVCG.2025.3633896](https://dx.doi.org/10.1109/TVCG.2025.3633896), 2026.
+
 ### Community contribution
 
 We'll happily accept community contributions. Open an issue or a pull request to help us out!
